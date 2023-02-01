@@ -99,4 +99,8 @@ Potential hydridization by comibining `Ni-Fe` cells with the `Al-Ion` cells.
 
 Could potentially be used as a `Ni-Fe` cell with a `Al-Ion` cell as a `supercapacitor` to increase the charge density.
 
+Could yield a potential of: 
+
 - 2V @600mA
+
+Optional use of fiberglass mat as cellulose acetate separator - instead of Fumed Silica
